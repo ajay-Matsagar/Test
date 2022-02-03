@@ -10,3 +10,4 @@ document.write("<h3>Hello Thinkitive</h3>");
         }
 
         document.write("<hr>");
+        
